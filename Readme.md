@@ -270,6 +270,3 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 <p>17.05.2020: added support for <b>19628.1</b> Insider Preview
 <p>16.05.2020: added support for <b>19041.84</b>
 </details>
-
-# Donate?
-[![For EU and Other](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/paypal.png)](https://paypal.me/sebaxakerhtc) &nbsp; [![Для дарений из России](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/yoomoney.png)](https://donate.stream/sebaxakerhtc)
