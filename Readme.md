@@ -16,6 +16,44 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>10.05.2024: added support for <b>10.0.26212.5000</b>
+<p>01.05.2024: added support for <b>10.0.26100.1 and 10.0.20348.2400</b>
+<p>26.04.2024: added support for <b>26200.5001</b>
+<p>25.04.2024: added support for <b>22621.3527 , 10.0.19041.4355 x86 & x64 </b>
+<p>23.04.2024: added support for <b>19041.4233 ,19041.4239 , 22000.2899 , 22621.3358 , 22621.3371 , 26002.1000 , 26020.1000, 22621.3430 , 22621.4235 </b>
+<p>08.03.2024: added support for <b>26063.1</b>
+<p>01.03.2024: added support for <b>22621.3235</b>
+<p>23.02.2024: EDITED wrong offsets for <b>19041.3636_x86</b> #Thanks to @loyejaotdiqr47123 for this!
+<p>21.02.2024: added support for <b>17763.10021_x64</b>
+<p>19.02.2024: added support for <b>22621.3227</b> and <b>.23620.1000</b>
+<p>16.02.2024: added support for <b>26058.1000</b> thanks to @udygct
+<p>14.02.2024: added support for <b>22000.2777</b> and <b>20348.2322_x64</b>
+<p>12.02.2024: added support for <b>26052.1000</b>
+<p>05.02.2024: added support for <b>22621.3139</b>
+<p>28.01.2024: added support for <b>22621.3130</b>
+<p>24.01.2024: added support for <b>22621.3085</b>
+<p>23.01.2024: added support for <b>23619.1000</b>
+<p>17.01.2024: added support for <b>22621.3078</b>
+<p>15.01.2024: added support for <b>23612.1000</b> and <b>23615.1000</b>
+<p>13.01.2024: added support for <b>26010.1000</b>
+<p>10.01.2024: added support for <b>17763.5328_x64</b>
+<p>30.12.2023: added support for <b>26016.1000</b> HAPPY NEW YEAR ! ! !
+<p>20.12.2023: added support for <b>23606.1000</b>
+<p>15.12.2023: added support for <b>22621.2915</b>
+<p>13.12.2023: added support for <b>22621.2861</b>
+<p>11.12.2023: added support for <b>23595.1001</b>
+<p>28.11.2023: added support for <b>23590.1000</b>
+<p>23.11.2023: added support for <b>25997.1000</b>
+<p>18.11.2023: added support for <b>22621.2706</b>
+<p>15.11.2023: added support for <b>17763.5122_x64</b>, <b>20348.2110_x64</b> and <b>22000.2600</b>
+<p>09.11.2023: added support for <b>23580.1000</b>, <b>23585.1001</b> and <b>25992.1000</b>
+<p>03.11.2023: added support for <b>23575.1001</b>
+<p>02.11.2023: added support for <b>25977.1000</b>
+<p>27.10.2023: added support for <b>22621.2506</b> and <b>19041.3636</b>
+<p>22.10.2023: added support for <b>23570.1000</b>
+<p>16.10.2023: added support for <b>22621.2483</b>, <b>23565.1000</b> and <b>25967.1000</b>
+<p>13.10.2023: added support for <b>22621.2419</b> and <b>22621.2500</b>
+<p>11.10.2023: added support for <b>19041.3570</b>, <b>20348.2031_x64</b> and <b>23560.1000</b>
 <p>02.10.2023: added support for <b>23555.1000</b>
 <p>30.09.2023: added support for <b>19041.3516_x86</b>
 <p>27.09.2023: added support for <b>19041.3516_x64</b>
