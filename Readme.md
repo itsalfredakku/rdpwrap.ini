@@ -16,6 +16,14 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>07.06.2024: added support for <b>10.0.26227.5000 and 10.0.26231.5000</b>
+<p>30.05.2024: added support for <b>10.0.19041.4474 x86 & x64</b>
+<p>26.05.2024: added support for <b>10.0.22621.3646 and 10.0.17763.5830 x86</b>
+<p>24.05.2024: added support for <b>10.0.19041.4472 x86 & x64 and 10.0.17763.5830</b>
+<p>23.05.2024: added support for <b>10.0.22621.3640</b>
+<p>18.05.2024: added support for <b>10.0.26217.5000</b>
+<p>17.05.2024: added support for <b>10.0.22621.3668</b>
+<p>15.05.2024: added support for <b>10.0.17763.5820 x64 & x86, 10.0.20348.2461, 10.0.22000.2960 and 10.0.22621.3593</b>
 <p>10.05.2024: added support for <b>10.0.26212.5000</b>
 <p>01.05.2024: added support for <b>10.0.26100.1 and 10.0.20348.2400</b>
 <p>26.04.2024: added support for <b>26200.5001</b>
